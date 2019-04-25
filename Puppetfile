@@ -1,1 +1,3 @@
-mod 'puppetlabs-host_core'
+mod 'puppet-nginx'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/concat'
